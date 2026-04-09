@@ -1,0 +1,5 @@
+audio_separator==0.43.1
+onnxruntime-gpu==1.23.2
+soundfile==0.13.1
+srt==3.5.3
+bs4==0.0.2
